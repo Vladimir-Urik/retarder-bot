@@ -1,0 +1,25 @@
+{
+  "name": "retarder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "f": "^1.4.0",
+    "fetch": "^1.1.0",
+    "fetch-node": "0.0.1",
+    "fs": "0.0.1-security",
+    "image-js": "^0.21.9",
+    "imageapi.js": "^1.0.3",
+    "node-fetch": "^2.6.0",
+    "random-puppy": "^1.1.0",
+    "request": "^2.88.2",
+    "snekfetch": "^4.0.4"
+  }
+}
